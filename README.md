@@ -11,19 +11,19 @@ My Hobbies include:
 
 ## 🛠 Skills 
 
-👩‍💻 Coding Languages
+👩‍💻 **Coding Languages**
 
 Python, Java, JavaScript (NodeJS & ReactJS), PowerShell, Git
 
-☁ Cloud Technologies (Security)
+☁ **Cloud Technologies (Security)**
 
 Prisma Cloud Compute (Palo Alto), Google Cloud Technologies {Google Kubernetes Engine, Google Compute Engine}
 
-🔧 General Detection & Response
+🔧 **General Detection & Response**
 
 Splunk, FireEye HX & ETP, SentinelOne, Cortex XSOAR, OSINT Tools, Google Administrative Tools, Google Vault
 
-⚙ OSINT Tooling
+⚙ **OSINT Tooling**
 
 Cisco ThreatGrid, urlscan.io, Intezer, VirusTotal, 
 ## 🔗 Links
