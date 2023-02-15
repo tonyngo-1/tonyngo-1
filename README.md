@@ -1,16 +1,31 @@
-### Hi there 👋
+## 🚀 About Me
+I'm a Cyber Security Analyst @ at major FinTech company. I am now utilizing my background security knowledge and merging it my software development knowledge to further myself in the Security field.
 
-<!--
-**tonyngo-1/tonyngo-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Hobbies include:
 
-Here are some ideas to get you started:
+🥾 Hiking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📸 Photography
+
+🏈⚾ Watching Sports (Go Dawgs & Braves!)
+
+## 🛠 Skills 
+
+👩‍💻 Coding Languages
+
+Python, Java, JavaScript (NodeJS & ReactJS), PowerShell, Git
+
+☁ Cloud Technologies (Security)
+
+Prisma Cloud Compute (Palo Alto), Google Cloud Technologies {Google Kubernetes Engine, Google Compute Engine}
+
+🔧 General Detection & Response
+
+Splunk, FireEye HX & ETP, SentinelOne, Cortex XSOAR, OSINT Tools, Google Administrative Tools, Google Vault
+
+⚙ OSINT Tooling
+
+Cisco ThreatGrid, urlscan.io, Intezer, VirusTotal, 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonyngo-1)
+
