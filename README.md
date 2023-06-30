@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a Cyber Security Analyst @ at major FinTech company. I am now utilizing my background security knowledge and merging it my software development knowledge to further myself in the Security field.
+I'm a Cyber Security Analyst working in ONG 🛢️. I am now utilizing my background security knowledge and merging it my software development knowledge to further myself in the Security field.
 
 My Hobbies include:
 
